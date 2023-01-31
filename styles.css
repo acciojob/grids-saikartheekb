@@ -1,2 +1,42 @@
 
 /* Your CSS Code here. */
+.row{
+	height: 33vh;
+	margin: 10px 10px;
+}
+.container{
+	padding: 10px;
+	margin: 10px;
+	background: limegreen;
+}
+*{
+	background: hotpink
+}
+.row1-col1{
+	background: purple;
+	border: dotted;
+}
+.row1-col2{
+	background: grey;
+	border: dotted;
+}
+.row2-col1{
+	background: tomato;
+	border: dotted;
+}
+.row2-col2{
+	background: magenta;
+	border: dotted;
+}
+.row3-col1{
+	background: magenta;
+	border: dotted;
+}
+.row3-col2{
+	background: greenyellow;
+	border: dotted;
+}
+.brown-block{
+	background: brown;
+	border: dotted;
+}
